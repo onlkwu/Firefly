@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "blog.onlkwu-blog.ccwu.cc",
+	site_url: "onlkwu-blog.ccwu.cc",
 
 	// 站点描述
 	description:
