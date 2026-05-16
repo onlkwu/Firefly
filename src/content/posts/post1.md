@@ -6,9 +6,9 @@ published: 2026-5-17
 
 description: 第一篇文章
 
-tags: \[测试]
+tags: \[one]
 
-category: test
+category: one
 
 draft: false
 
