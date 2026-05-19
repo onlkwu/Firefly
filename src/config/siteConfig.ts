@@ -10,10 +10,10 @@ export const siteConfig: SiteConfig = {
 	title: "Firefly",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "yin's blog",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.onlkwu-blog.ccwu.cc",
 
 	// 站点描述
 	description:
