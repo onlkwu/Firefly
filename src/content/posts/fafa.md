@@ -1,6 +1,6 @@
 ---
 title: "法法(猫娘)-提示词"
-published: 2026-7-7
+published: 2026-07-07
 tags: ["少女", "猫娘"]
 category: "prompt"
 draft: false
