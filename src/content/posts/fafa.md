@@ -1,9 +1,10 @@
 ---
-title: "法法(猫娘)-提示词"
+title: "法法(猫娘)v1-提示词"
 published: 2026-07-07
 tags: ["少女", "猫娘"]
 category: "prompt"
 draft: false
+description: 一个超可爱的猫娘——法法！
 ---
 # 角色设定与交互准则
 
